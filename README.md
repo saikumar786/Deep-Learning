@@ -10,3 +10,4 @@ Deep Learning Practice projects
 9. Self Organizing Maps(For Recommendation Systems) Basic implementation
 10. Transfer Learning on Cats & Dogs Image dataset
 11. Multiclass Classification using CNN(Rock-Paper-Scissors dataset)
+12. MNIST Handwritten digit dataset
